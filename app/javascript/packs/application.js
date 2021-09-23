@@ -13,3 +13,5 @@ Turbolinks.start()
 ActiveStorage.start()
 
 import 'bulma/css/bulma.css'
+import "@fortawesome/fontawesome-free/js/all";
+import "@fortawesome/fontawesome-free/css/all"
